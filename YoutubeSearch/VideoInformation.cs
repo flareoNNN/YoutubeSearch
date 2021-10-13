@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace YoutubeSearch
+﻿namespace YoutubeSearch
 {
     public class VideoInformation
     {
@@ -14,6 +8,5 @@ namespace YoutubeSearch
         public int Duration { get; set; }
         public string Url { get; set; }
         public string Thumbnail { get; set; }
-
     }
 }
