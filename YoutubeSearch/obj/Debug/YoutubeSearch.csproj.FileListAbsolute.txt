@@ -1,0 +1,8 @@
+C:\Users\users_x0qlgim\source\repos\YoutubeSearch\YoutubeSearch\bin\Debug\YoutubeSearch.dll
+C:\Users\users_x0qlgim\source\repos\YoutubeSearch\YoutubeSearch\bin\Debug\YoutubeSearch.pdb
+C:\Users\users_x0qlgim\source\repos\YoutubeSearch\YoutubeSearch\bin\Debug\RestSharp.dll
+C:\Users\users_x0qlgim\source\repos\YoutubeSearch\YoutubeSearch\bin\Debug\RestSharp.xml
+C:\Users\users_x0qlgim\source\repos\YoutubeSearch\YoutubeSearch\obj\Debug\YoutubeSearch.csproj.AssemblyReference.cache
+C:\Users\users_x0qlgim\source\repos\YoutubeSearch\YoutubeSearch\obj\Debug\YoutubeSearch.csproj.CoreCompileInputs.cache
+C:\Users\users_x0qlgim\source\repos\YoutubeSearch\YoutubeSearch\obj\Debug\YoutubeSearch.dll
+C:\Users\users_x0qlgim\source\repos\YoutubeSearch\YoutubeSearch\obj\Debug\YoutubeSearch.pdb
